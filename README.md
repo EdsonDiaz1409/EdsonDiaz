@@ -13,6 +13,13 @@
  ✅   javaScript
  
 E + 🤓
+
+
+<div align="center">
+  <a href="https://github.com/edsondiaz">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=edsondiaz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edsondiaz&layout=compact&langs_count=7&theme=dark"/>
+</div>
  
 
 <div style="display: inline_block"><br>
