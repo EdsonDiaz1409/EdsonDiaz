@@ -2,7 +2,7 @@
 
 😎    #Edson Diaz
  
-👨‍🎓 Estudante full Stack
+👨‍🎓 Estudante de Tecnologia e apaixonado pela área.
 
 ✅ HTML5
 
@@ -11,6 +11,8 @@
  ✅  Logica de Programação
  
  ✅   javaScript
+ 
+ ✅  Java
  
 E + 🤓
 
